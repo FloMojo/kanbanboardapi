@@ -1,0 +1,42 @@
+{ "backlog" : {
+    "items" : [ 
+    {"id" : "1","text" : "BL1"},
+    {"id" : "2","text" : "BL2"},
+    {"id" : "3","text" : "BL3"}
+    ],
+    "name" : "Backlog"
+},
+"ready" : { 
+    "items" : [
+    {"id" : "4","text" : "R1"},
+    {"id" : "5","text" : "R2"},
+    {"id" : "6","text" : "R3"}
+    ],
+    "name" : "ready"
+},
+"coding": { 
+    "items" : [
+    {"id" : "7","text" : "CO1"},
+    {"id" : "8","text" : "CO2"},
+    {"id" : "9","text" : "CO3"}
+    ],
+    "name" : "coding"
+},
+"test": 
+    {
+    "items" : [
+    {"id" : "10","text" : "T1"},
+    {"id" : "11","text" : "T2"},
+    {"id" : "12","text" : "T3"}            
+    ],
+    "name" : "test"
+},
+"done": {
+    "items" : [
+    {"id" : "","text" : "D1"},
+    {"id" : "","text" : "D2"},
+    {"id" : "","text" : "D3"}
+    ],
+    "name" : "Done"
+}
+}
